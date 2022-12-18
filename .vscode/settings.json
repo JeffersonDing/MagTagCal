@@ -1,0 +1,15 @@
+{
+  "cortex-debug.registerUseNaturalFormat": false,
+  "files.associations": {
+    "*.phps": "php",
+    "*.sage": "python",
+    "cstdlib": "cpp",
+    "iostream": "cpp",
+    "ctime": "cpp",
+    "string": "cpp",
+    "*.tcc": "cpp",
+    "string_view": "cpp",
+    "unordered_map": "cpp",
+    "unordered_set": "cpp"
+  }
+}
